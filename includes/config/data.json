@@ -4,9 +4,6 @@
   "currency": "&#8364;",
  "lang": "fr",
   "FaceBookCurrency": "EUR",
-  "upsell1ID": 87,
-  "upsell2ID": 86,
-  "upsell3ID": 88,
   "products": [
     {
       "cid": 84,
@@ -23,14 +20,14 @@
       "discount": "ÉCONOMISEZ",
       "rewiews_mark": "9.8",
       "excellent": "EXCELENT",
-      "num_reviews": "51 COMMENTAIRES",
+      "num_reviews": "52 COMMENTAIRES",
       "buy_2_get_1": "Acheter-en 2 obtenez-en 1 gratuit",
       "satisfaction_guaranteed": "Satisfaction<br> Garantie",
       "add_to_cart": "Ajouter au chariot",
-      "support_email": "support@lesmeilleursyeux.com",
-      "rand_head": 60% DE RÉDUCTION",
+      "support_email": "support@serumpourcilsfrance.com",
+      "rand_head": "FR - 60% DE RÉDUCTION SEULEMENT AUJOURD'HUI!",
       "logos": "../resources/images/logos.jpg",
-      "head": "60% DE RÉDUCTION SEULEMENT AUJOURD'HUI! "
+      "head": "FR - 60% DE RÉDUCTION SEULEMENT AUJOURD'HUI! "
     }
   ]
 }
